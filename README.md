@@ -24,9 +24,10 @@
 <p align="left">I'm Bencso from Hungary<br><br>- 📚 I'm currently learning C# , ReactJS , VueJS<br>- ⚡ In my free time I play video games</p>
 
 ###
-⚡ Fun fact:
-<!--STARTS_HERE_QUOTE_README-->
-<!--ENDS_HERE_QUOTE_README-->
+
+⚡ Fun fact: Python was not named after a snake 🐍
+
+###
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
