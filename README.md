@@ -1,6 +1,6 @@
 <img src="hellóóóó.jpg"/>
 
-<h4 align="center">Student/Tanuló 🎒</h4>
+<div align="center"><h3>Student/Tanuló 🎒</h3></div>
 
 ###
 👦🏼 My name is Bencso/Bencsó and I'm an 18-year-old boy who loves playing games and programming.<br> <i> Bencsónak hívnak és egy 18 éves fiú vagyok, aki imád játszani és programozni. </i>
