@@ -18,6 +18,12 @@
 
 Here you'll find various projects and trying that showcase my passion and interest in programming. I hope you find them interesting and useful. <br> 
 <i>Itt találsz különböző projekteket és próbálkozásokat, amelyek a programozás iránti szenvedélyemet és érdeklődésemet mutatják. Remélem, érdekesnek és hasznosnak találod őket. </i>
+
+<ul>
+  <li><a href="https://github.com/bencso/tictactoe">Tic-Tac-Toe</a></li>
+ <li><a href="https://github.com/bencso/SJW2024_Babolnai_Bence">Skills Junior 2024 verseny webfejlesztő kategória második fordulójának feladata</a></li>
+</ul>
+
 ###
 You are welcome to have a look at my account, which has been active since the beginning of the year 2024. <br> <i>Szívesen látlak benneteket a fiókomban, amely a 2024-es év eleje óta aktív.</i>
 ###
