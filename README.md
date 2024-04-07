@@ -7,6 +7,8 @@
 ###
 🙏 I'm really excited to tell you a little bit about myself. My ultimate goal is to become an experienced programmer and  even create educational programming videos that inspire others. <br> <i> Nagyon izgatott vagyok, hogy meséljek egy kicsit magamról. A célom az, hogy tapasztalt programozó legyek, és akár másokat inspiráló programozós oktatóvideókat készítsek. </i> 
 ###
+<img src="stacks.jpg"/>
+
 📚 Currently, I am focused on learning HTML , Bootstrap , Javascript , CSS , Sass , C#, Angular, and Vue.js. I'm really excited to see where these skills will take me!  <br> 
 <i> Jelenleg a C#, JavaScript, HTML, Angular és Vue.js tanulására koncentrálok. Nagyon izgatottan várom, hogy hova vezetnek majd ezek a készségek! </i>
 ###
