@@ -9,8 +9,8 @@
 ###
 <img src="stack.jpg"/>
 
-📚 Currently, I am focused on learning HTML , Bootstrap , Javascript , CSS , Sass , C#, Angular, and Vue.js. I'm really excited to see where these skills will take me!  <br> 
-<i> Jelenleg a C#, JavaScript, HTML, Angular és Vue.js tanulására koncentrálok. Nagyon izgatottan várom, hogy hova vezetnek majd ezek a készségek! </i>
+📚 Currently, I am focused on learning <b>HTML , Bootstrap , Javascript , CSS , Sass , C#, Angular, and Vue.js.</b> I'm really excited to see where these skills will take me!  <br> 
+<i> Jelenleg a <b>HTML , Bootstrap , Javascript , CSS , Sass , C#, Angular, és Vue.js.</b> tanulására koncentrálok. Nagyon izgatottan várom, hogy hova vezetnek majd ezek a készségek! </i>
 ###
 Here you'll find various projects and trying that showcase my passion and interest in programming. I hope you find them interesting and useful. <br> 
 <i>Itt találsz különböző projekteket és próbálkozásokat, amelyek a programozás iránti szenvedélyemet és érdeklődésemet mutatják. Remélem, érdekesnek és hasznosnak találod őket. </i>
