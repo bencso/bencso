@@ -32,7 +32,7 @@ You are welcome to have a look at my account, which has been active since the be
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=bencso&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=50&date_format=%5BY%20%5DM%20j&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=bencso&locale=en&mode=weekly&theme=highcontrast&hide_border=false&border_radius=0&date_format=%5BY%20%5DM%20j&border=3" width="1100"  alt="streak graph"  />
 </div>
 
 ###
