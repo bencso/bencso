@@ -1,6 +1,4 @@
-<h1 align="center">hellóóóó 👋</h1>
-
-###
+<img src="hellóóóó.jpg"/>
 
 <h4 align="center">Student/Tanuló 🎒</h4>
 
