@@ -24,7 +24,7 @@ Here you'll find various projects and trying that showcase my passion and intere
   <li><a href="https://github.com/bencso/tictactoe" target="_blank">Tic-Tac-Toe</a></li>
  <li><a href="https://github.com/bencso/SJW2024_Babolnai_Bence" target="_blank">Skills Junior 2024 verseny webfejlesztő kategória második fordulójának feladata</a> (<i>Nincs befejezve</i>)</li>
    <li><a href="https://github.com/bencso/prog_tetelek" target="_blank">Programozási tételek C#-ban</li>
-<li><a href="https://github.com/bencso/tarolok_csharo" target="_blank">Tömbök, listák, dictonary-k C#-ban</li>
+<li><a href="https://github.com/bencso/tarolok_csharo" target="_blank">Tömbök, listák, dictonary-k C#-ban</li> (Folyamatban)
 </ul>
 
 ###
