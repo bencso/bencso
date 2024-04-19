@@ -25,7 +25,7 @@ Here you'll find various projects and trying that showcase my passion and intere
  <li><a href="https://github.com/bencso/SJW2024_Babolnai_Bence" target="_blank">Skills Junior 2024 verseny webfejlesztő kategória második fordulójának feladata</a> (<i>Nincs befejezve</i>)</li>
    <li><a href="https://github.com/bencso/prog_tetelek" target="_blank">Programozási tételek C#-ban</li>
 <li><a href="https://github.com/bencso/tarolok_csharp" target="_blank">Tömbök, listák, dictionary-k C#-ban</li> (Folyamatban)
-<li><a href="https://github.com/bencso/restapi-tester" target="_blank">REST API tester (.py & HTML/CSS/Bootstrap5)</li> (Folyamatban)
+<li><a href="https://github.com/bencso/restapi-tester" target="_blank">REST API tester</li> (Folyamatban)
 </ul>
 
 ###
