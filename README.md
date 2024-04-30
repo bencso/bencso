@@ -10,7 +10,7 @@
 
 <img src="stack.jpg"/>
 
-📚 Currently, I am focused on learning <b>SASS, TailwindCSS,VueJS, AngularJS and C# </b> I'm really excited to see where these skills will take me!  <br>🇭🇺 
+📚 Currently, I am focused on learning <b>SASS, TailwindCSS,VueJS, AngularJS, PHP and C# </b> I'm really excited to see where these skills will take me!  <br>🇭🇺 
 <i> Jelenleg a <b>SASS, TailwindCSS, VueJS, AngularJS, PHP és C#</b> tanulására koncentrálok. Nagyon izgatottan várom, hogy hova vezetnek majd ezek a készségek! </i>
 ###
 <img src="https://github-readme-tech-stack.vercel.app/api/cards?borderRadius=0&lineCount=2&theme=cyberpunk&width=1100&hideTitle=true&bg=%230a0b0e&badge=%23ffffff&border=%23ffffff&titleColor=%23ffffff&line1=html5%2Chtml5%2C000000%3Bcss3%2Ccss3%2C000000%3Bsass%2Csass%2C000000%3Bbootstrap%2Cbootstrap%2C000000%3Btailwindcss%2Ctailwindcss%2C000000%3Bjavascript%2Cjavascript%2C000000%3Bnode.js%2CNODEJS%2C000000%3Bvue.js%2CvueJS%2C000000%3BANGULAR%2CANGULAR%2C000000%3B&line2=python%2Cpython%2C000000%3BCSHARP%2CCSHARP%2C000000%3B" alt="My Tech Stack" />
