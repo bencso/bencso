@@ -5,8 +5,6 @@
 ###
 👦🏼 My name is Bencso/Bencsó and I'm an 18-year-old boy who loves playing games and programming.<br>🇭🇺 <i> Bencsónak hívnak és egy 18 éves fiú vagyok, aki imád játszani és programozni. </i>
 ###
-🙏 I'm really excited to tell you a little bit about myself. My ultimate goal is to become an experienced programmer and  even create educational programming videos that inspire others. <br>🇭🇺 <i> Nagyon izgatott vagyok, hogy meséljek egy kicsit magamról. A célom az, hogy tapasztalt programozó legyek, és akár másokat inspiráló programozós oktatóvideókat készítsek. </i> 
-###
 
 <img src="stack.jpg"/>
 
