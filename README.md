@@ -5,7 +5,7 @@
 *Mainly Frontend developer, but otherwise I'm also on the Backend.*
 
 - **💼 I'm working on this:-** </br>
-- **📚 I'm currently studying these:** </br> [![I studying](https://skillicons.dev/icons?i=cs,laravel,nextjs&theme=dark)](https://skillicons.dev) </br>
+- **📚 I’m currently learning:** </br> [![I studying](https://skillicons.dev/icons?i=cs,laravel,nextjs&theme=dark)](https://skillicons.dev) </br>
 - **⚙️ These are the languages I use:** </br> 
 [![My Skills](https://skillicons.dev/icons?i=cs,js,python&theme=dark)](https://skillicons.dev)</br>
 - **📄 Take a look at my portfolio: (under construction)** </br>
