@@ -4,7 +4,7 @@
 **I'm Bencsó, currently studying software development.** </br>
 *Mainly Frontend developer, but otherwise I'm also on the Backend.*
 
-- **💼 I'm working on that:-** </br>
+- **💼 I'm working on this:-** </br>
 - **📚 I'm currently studying these:** </br> [![I studying](https://skillicons.dev/icons?i=cs,laravel,nextjs&theme=dark)](https://skillicons.dev) </br>
 - **⚙️ These are the languages I use:** </br> 
 [![My Skills](https://skillicons.dev/icons?i=cs,js,python&theme=dark)](https://skillicons.dev)</br>
