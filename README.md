@@ -1,14 +1,24 @@
-### Welcome here. 👋🏻
+## Hello, World! 👋🏻
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bencso&label=Views&color=151515&style=flat" alt="bencso" /> </p>
 
 **I'm Bencsó, currently studying software development.** </br>
 *Mainly Frontend developer, but otherwise I'm also on the Backend.*
 
-- **💼 I'm working on this: [tikIU](https://www.github.com/bencso/tikIU)** </br>
-- **📚 I’m currently learning:** </br> [![I studying](https://skillicons.dev/icons?i=cs,laravel,nextjs&theme=dark)](https://skillicons.dev) </br>
-- **⚙️ I currently use these** </br> 
-[![My Skills](https://skillicons.dev/icons?i=cs,js,python,tailwindcss,react&theme=dark)](https://skillicons.dev)</br>
-- **📄 Take a look at my portfolio: (under construction)** </br>
-- **📧 You can contact me here:** </br> [Discord](https://discord.com) (*bencso*)
+**💼 This is what I am currently working on: [tikIU](https://www.github.com/bencso/tikIU)** </br>
+**📚 I am currently studying these:** </br> 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+</br>
+**📄 Take a look at my portfolio: (under construction)** </br>
 
-![Bencso's GitHub stats](https://github-readme-stats.vercel.app/api?username=bencso&show_icons=true&theme=dark#gh-dark-mode-only)
+## ⚙ My tech stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
