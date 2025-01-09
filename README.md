@@ -3,7 +3,7 @@
 **I'm Bencsó, currently studying software development.** </br>
 *Mainly Frontend developer, but otherwise I'm also on the Backend.*
 
-**💼 I'm currently working on: szakközépiskolai vizsgaramek** </br>
+**💼 I'm currently working on: technikusi vizsgaramek** </br>
 **📚 I'm currently studying these:** </br> 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
