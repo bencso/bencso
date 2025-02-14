@@ -2,6 +2,7 @@
 
 **I'm Bencsó, currently studying software development.** </br>
 *Mainly Frontend developer, but otherwise I'm also on the Backend.*
+<p><img src="https://komarev.com/ghpvc/?username=bencso&label=Views&color=151515&style=flat" alt="bencso" /></p>
 
 **💼 I'm currently working on: EduPlace (Technician exam)** </br>
 **📚 I'm currently studying these:** </br> 
@@ -25,6 +26,3 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![WakaTime](https://wakatime.com/share/@Bencso/dfbd7769-90fb-4153-987c-ab811c2bdb35.svg)
-
-<p><img src="https://komarev.com/ghpvc/?username=bencso&label=Views&color=151515&style=flat" alt="bencso" /></p>
