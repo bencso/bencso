@@ -1,10 +1,10 @@
 # Freelance developer
-![GithubStat](https://komarev.com/ghpvc/?username=bencso&label=👀&color=000000&style=for-the-badge) <br>
 > **🔊 Bence / Bencso** <br>
 > **🏡 Budapest, Hungary** <br>
 > **🎓 Student - Software Development and Testing** <br>
 > **💼 I'm currently working on: EduPlace (Technician exam)** </br>
 
+![GithubStat](https://komarev.com/ghpvc/?username=bencso&label=👀&color=000000&style=for-the-badge) <br>
  ## **✉️ Contact**<br>
 ![Discord](https://img.shields.io/badge/bencso-%235865F2?style=for-the-badge&logo=discord&logoColor=white) [![Mail](https://img.shields.io/badge/contact@bencso.hu-black?style=for-the-badge)](mailto:contact@bencso.hu)  <br>
 ## **⚙️ Stacks**<br>
