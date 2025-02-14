@@ -24,7 +24,7 @@
 ## 🏆 My results
 | Competition | Theme | Topics | Placement |
 | --- | --- | --- | :---: |
-| [SkilsIT (2023)](https://skillsit.hu/skills-junior-2023-webfejleszto/) | Frontend fejlesztés|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)| Top 10 |
-| [PenDroid (2025)](https://pendroid.uni-pen.hu/hu/item/83-veget-ert-a-pendroid-2025-os-dontoje) | Mobil játékfejlesztés| ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) | 🥉 3. |
+| [SkilsIT (2023)](https://skillsit.hu/skills-junior-2023-webfejleszto/) | Frontend development |![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)| Top 10 |
+| [PenDroid (2025)](https://pendroid.uni-pen.hu/hu/item/83-veget-ert-a-pendroid-2025-os-dontoje) | Mobile game development | ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) | 🥉 3. |
 
 **🚧 Under conversion (the whole profile)**
