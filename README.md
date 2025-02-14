@@ -3,7 +3,7 @@
 > 💻 Freelance Developer | Budapest, Hungary  
 > 💼 Working on: EduPlace – an educational platform for technicians</br>
 
-**🚧 Work in progress – constantly improving my profile!**
+**🚧 Work in progress – updating and improving my GitHub profile!**
 
 ## ✉️ Contact<br>
 📩 **Email:** [contact@bencso.hu](mailto:contact@bencso.hu)  
