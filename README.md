@@ -14,7 +14,7 @@
 ![Backend icons](https://skillicons.dev/icons?i=cs,php,laravel)
 
 ### 🎨 Frontend  
-![Frontend icons](https://skillicons.dev/icons?i=react,next,js,tailwind,sass)
+![Frontend icons](https://skillicons.dev/icons?i=react,next,js,ts,tailwind,sass)
 
 ## 🏅 Competitions & Achievements  
 | Year  | Competition | Category | Tech Used | Placement |
