@@ -19,7 +19,7 @@
 ## 🏅 Competitions & Achievements  
 | Year  | Competition | Category | Tech Used | Placement |
 |-------|------------|----------|-----------|:---------:|
-| 2025  | [PenDroid](https://pendroid.uni-pen.hu/) | Mobile Game Dev | Unity, C# | 🥉 3rd |
-| 2023  | [SkillsIT](https://skillsit.hu/skills-junior-2023-webfejleszto/) | Frontend Development | HTML, JS, SASS | Top 10 |
+| 2025 | [PenDroid](https://pendroid.uni-pen.hu/) | Mobile Game Dev | Unity, C# | 🥉 3rd |
+| 2024 | [SkillsIT](https://skillsit.hu/skills-junior-2024-webfejleszto/) | Frontend Development | HTML, JS, SASS | Top 10 |
 
 ![GithubStat](https://komarev.com/ghpvc/?username=bencso&label=👀&color=000000&style=for-the-badge)
