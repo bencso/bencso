@@ -1,7 +1,7 @@
 ## Hi, I'm Bence! 👋  
 > 🎓 Student - Software Development & Testing  
 > 💻 Freelance Developer | Budapest, Hungary  
-> 💼 Currently developing **EduPlace** – an educational platform as part of my technician exam<br>
+> 💼 Currently developing 
 
 **🚧 Work in progress – updating and improving my GitHub profile!**
 
