@@ -7,11 +7,14 @@
 [![Discord](https://img.shields.io/badge/bencso-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 ## ⚙️ Tech Stack  
+### 🌐 Web  
+![Backend icons](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind)
+
 ### 🖥 Backend  
 ![Backend icons](https://skillicons.dev/icons?i=cs,ts,express)
 
 ### 🎨 Frontend  
-![Frontend icons](https://skillicons.dev/icons?i=react,next,astro,js,tailwind,sass)
+![Frontend icons](https://skillicons.dev/icons?i=react,next,astro)
 > I am currently learning these languages and improving my skills in them. ☝
 
 ## 🏅 Competitions & Achievements  
