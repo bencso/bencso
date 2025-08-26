@@ -8,7 +8,7 @@
 
 ## ⚙️ Tech Stack  
 ### 🖥 Backend  
-![Backend icons](https://skillicons.dev/icons?i=cs,laravel,ts)
+![Backend icons](https://skillicons.dev/icons?i=cs,ts,express)
 
 ### 🎨 Frontend  
 ![Frontend icons](https://skillicons.dev/icons?i=react,next,astro,js,tailwind,sass)
