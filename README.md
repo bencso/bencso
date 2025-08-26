@@ -1,6 +1,6 @@
 ## Hi, I'm Bence! 👋  
-> 💻 Freelance Developer | Budapest, Hungary  
-> 💼 I am currently looking for a job and developing myself 
+> 💻 Freelance front-end developer | Budapest, Hungary  
+> 💼 I am currently looking for a job and developing myself.
 
 ## ✉️ Contact<br>
 [![Email](https://img.shields.io/badge/contact@bencso.hu-black?style=for-the-badge)](mailto:hello@bencso.hu)  
