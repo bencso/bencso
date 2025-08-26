@@ -8,10 +8,10 @@
 
 ## ⚙️ Tech Stack  
 ### 🖥 Backend  
-![Backend icons](https://skillicons.dev/icons?i=cs,laravel)
+![Backend icons](https://skillicons.dev/icons?i=cs,laravel,ts)
 
 ### 🎨 Frontend  
-![Frontend icons](https://skillicons.dev/icons?i=react,next,astro,js,ts,tailwind,sass)
+![Frontend icons](https://skillicons.dev/icons?i=react,next,astro,js,tailwind,sass)
 > I am currently learning these languages and improving my skills in them. ☝
 
 ## 🏅 Competitions & Achievements  
