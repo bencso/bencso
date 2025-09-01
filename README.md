@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bencso 👋</h1>
-<h4 align="center">💻 Junior Front-End Developer | Budapest, Hungary 🇭🇺</h4>
+<h4 align="center">💻 Freelancer Junior Front-End Developer | Budapest, Hungary 🇭🇺</h4>
 <h5 align="center">I am currently improving my skills and am open to new opportunities.</h5>
 
 
