@@ -45,8 +45,8 @@
 
 
 <p align="center" align="middle">
-<img src="https://wakatime.com/share/@Bencso/152f23d8-64db-4051-91f3-c19d6e88f0e2.svg" hspace="10" align="middle"></img> <img src="https://komarev.com/ghpvc/?username=bencso&label=👀&color=000000&style=for-the-badge" alt="Profile Views" hspace="10" align="middle" /> 
+<img src="https://wakatime.com/share/@Bencso/152f23d8-64db-4051-91f3-c19d6e88f0e2.svg" hspace="10" align="middle"></img> <img src="https://komarev.com/ghpvc/?username=bencso&label=👀&color=000000&style=for-the-badge" alt="Profile Views" title="Wakatime Stat since November 17 2024" hspace="10" align="middle" /> 
 </p>
 
-<img title="Wakatime Stat since November 17 2024"  src="https://wakatime.com/share/@Bencso/ad93bda8-a914-4220-863c-e11083adcac5.svg"/>
+<img title="Wakatime Stat since November 17 2024" alt="Profile Languages" src="https://wakatime.com/share/@Bencso/ad93bda8-a914-4220-863c-e11083adcac5.svg"/>
 <h5>(This is not my entire coding statistics, wakatime has been running since November 17, 2024.)</h5>
