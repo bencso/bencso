@@ -1,30 +1,22 @@
-## Hello 👋
+<h2 align="center">Szia 👋</h2>
 
-###
-#### JavaScript • TypeScript • Python • C#
+<h4 align="center">
+JavaScript • TypeScript • Python • C#
+</h4>
 
-#### Kiemelt projektek:
+## Kiemelt projektek
 
-- **WizPX** - Gyorsítsd fel a fotós workflow-d!
-    - **Státusz:** Aktív fejlesztés alatt
-    - **Technológiák:**
-        - Next.js - *Frontend*
-            - PixiJS - *WebGL renderer*
-        - FastAPI - *Backend*
-    - [GitHub link](https://github.com/bencso/WizPX)
-- **Fridzsi** - Okos otthoni élelmiszer leltárazó és bevásárlást elősegítő mobilapp
-    - **Státusz:** Jegelve - 2026 második feléig *(tervezetten)*
-    - **Technológiák:**
-        - React Native - *Frontend*
-        - NestJS - *Backend*
-    - [GitHub link](https://github.com/bencso/fridzsi)
-- **New Factory játék** - Logikai infrastruktúra építős mobiljáték
-    - **Státusz:** Elkészült (versenyfeladat)
-      - **Technológiák:**
-        - Unity - *Game Engine*
-        - C# - *Programming Language*
-    - [GitHub link](https://github.com/bencso/newfactory)
-- **Projekt E** - Egy nagyobb, hosszabb távú szerelemprojekt (részletek később)
-    - **Státusz:** Tervezési fázis
+- **WizPX** – Fotós workflow eszköz\
+  [Repo](https://github.com/bencso/WizPX)
 
-![CODE STAT WAKATIME](https://wakatime.com/share/@Bencso/55314824-b640-4f13-961a-b305b0e5c76d.svg)
+- **Fridzsi** – Okos élelmiszer-nyilvántartó alkalmazás\
+  [Repo](https://github.com/bencso/fridzsi)
+
+- **New Factory** – Logikai építős mobiljáték\
+  [Repo](https://github.com/bencso/newfactory)
+
+---
+
+<p align="center">
+📫 <a href="mailto:hello@bencso.hu">hello@bencso.hu</a>
+</p>
