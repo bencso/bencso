@@ -28,4 +28,4 @@
 - **Projekt E** - Egy nagyobb, hosszabb távú szerelemprojekt (részletek később)
     - **Státusz:** Tervezési fázis
 
-![!CODE STAT](https://wakatime.com/share/@Bencso/55314824-b640-4f13-961a-b305b0e5c76d.svg)
+![CODE STAT WAKATIME](https://wakatime.com/share/@Bencso/55314824-b640-4f13-961a-b305b0e5c76d.svg)
