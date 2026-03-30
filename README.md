@@ -1,8 +1,7 @@
 ## Hello 👋
 
 ###
-#### Next.js • FastAPI • React Native • Unity
-###
+#### JavaScript • TypeScript • Python • C#
 
 #### Kiemelt projektek:
 
