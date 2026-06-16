@@ -4,16 +4,24 @@
 JavaScript • TypeScript • Python • C#
 </h4>
 
-## Kiemelt projektek
+### Kiemelt projektek
 
-- **WizPX** – Fotós workflow eszköz\
-  [Repo](https://github.com/bencso/WizPX)
+**WizPX** 𛰈 Fotós workflow eszköz\
+[Link](https://github.com/bencso/WizPX)
 
-- **Fridzsi** – Okos élelmiszer-nyilvántartó alkalmazás\
-  [Repo](https://github.com/bencso/fridzsi)
+**Fridzsi** 𛰈Okos élelmiszer-nyilvántartó alkalmazás\
+[Link](https://github.com/bencso/fridzsi)
 
-- **New Factory** – Logikai építős mobiljáték\
-  [Repo](https://github.com/bencso/newfactory)
+**New Factory** 𛰈 Logikai építős mobiljáték\
+[Link](https://github.com/bencso/newfactory)
+
+---
+
+### Eredmények
+
+**TOP 12** 𛰈 [Junior Skills](https://worldskillshungary.hu/juniorskills/juniorskills-2024/webfejleszto)
+
+**TOP 3** 𛰈 [PenDroid](https://pendroid.uni-pannon.hu/verseny/a-versenyrol)
 
 ---
 
