@@ -28,3 +28,9 @@ JavaScript • TypeScript • Python • C#
 <p align="center">
 📫 <a href="mailto:hello@bencso.hu">hello@bencso.hu</a>
 </p>
+
+---
+
+<p align="center">
+<a href="https://github.com/bencso/bencso/blob/main/README.en.md">EN</a> • <a href="https://github.com/bencso/bencso/blob/main/de">DE</a>
+</p>
