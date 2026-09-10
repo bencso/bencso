@@ -6,13 +6,16 @@ JavaScript • TypeScript • Python • C#
 
 ### Kiemelt projektek
 
-**WizPX** 𛰈 Fotós workflow eszköz\
+**Modiscan** - Weboldal változásfigyelő (CLI)\
+[HAMAROSAN](https://github.com/bencso)
+
+**WizPX** - Fotós workflow eszköz\
 [Link](https://github.com/bencso/WizPX)
 
-**Fridzsi** 𛰈Okos élelmiszer-nyilvántartó alkalmazás\
+**Fridzsi** - Okos élelmiszer-nyilvántartó alkalmazás\
 [Link](https://github.com/bencso/fridzsi)
 
-**New Factory** 𛰈 Logikai építős mobiljáték\
+**New Factory** - Logikai építős mobiljáték\
 [Link](https://github.com/bencso/newfactory)
 
 ---
