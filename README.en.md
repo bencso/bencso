@@ -6,13 +6,16 @@ JavaScript • TypeScript • Python • C#
 
 ### Featured Projects
 
-**WizPX** 𛰈 Photography workflow tool
+**Modiscan** - Website Change Monitor (CLI)\
+[COMING SOON](https://github.com/bencso)
+
+**WizPX** - Photography workflow tool
 [Link](https://github.com/bencso/WizPX)
 
-**Fridzsi** 𛰈 Smart food tracking app
+**Fridzsi** - Smart food tracking app
 [Link](https://github.com/bencso/fridzsi)
 
-**New Factory** 𛰈 Logic-based mobile building game
+**New Factory** - Logic-based mobile building game
 [Link](https://github.com/bencso/newfactory)
 
 ---
@@ -20,7 +23,6 @@ JavaScript • TypeScript • Python • C#
 ### Results
 
 **TOP 12** 𛰈 [Junior Skills](https://worldskillshungary.hu/juniorskills/juniorskills-2024/webfejleszto)
-
 **TOP 3** 𛰈 [PenDroid](https://pendroid.uni-pannon.hu/verseny/a-versenyrol)
 
 ---
