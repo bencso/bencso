@@ -6,6 +6,9 @@ JavaScript • TypeScript • Python • C#
 
 ### Ausgewählte Projekte
 
+**Modiscan** – Website-Änderungsüberwachung (CLI)\
+[DEMNÄCHST VERFÜGBAR](https://github.com/bencso)
+
 **WizPX** 𛰈 Tool für den Foto-Workflow\
 [Link](https://github.com/bencso/WizPX)
 
