@@ -9,13 +9,13 @@ JavaScript • TypeScript • Python • C#
 **Modiscan** – Website-Änderungsüberwachung (CLI)\
 [DEMNÄCHST VERFÜGBAR](https://github.com/bencso)
 
-**WizPX** 𛰈 Tool für den Foto-Workflow\
+**WizPX** - Tool für den Foto-Workflow\
 [Link](https://github.com/bencso/WizPX)
 
-**Fridzsi** 𛰈 Intelligente App zur Lebensmittelverwaltung\
+**Fridzsi** - Intelligente App zur Lebensmittelverwaltung\
 [Link](https://github.com/bencso/fridzsi)
 
-**New Factory** 𛰈 Logik-Bauspiel für Mobilgeräte\
+**New Factory** - Logik-Bauspiel für Mobilgeräte\
 [Link](https://github.com/bencso/newfactory)
 
 ---
@@ -23,7 +23,6 @@ JavaScript • TypeScript • Python • C#
 ### Ergebnisse
 
 **TOP 12** 𛰈 [Junior Skills](https://worldskillshungary.hu/juniorskills/juniorskills-2024/webfejleszto)
-
 **TOP 3** 𛰈 [PenDroid](https://pendroid.uni-pannon.hu/verseny/a-versenyrol)
 
 ---
