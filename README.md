@@ -4,6 +4,11 @@
 JavaScript • TypeScript • Python • C#
 </h4>
 
+### Fivem scriptek
+
+<a href="https://github.com/bencso/codeword_fivem"><img width="450" height="100" alt="codeword_strip" src="https://github.com/user-attachments/assets/2e2cb3ab-28d8-4ed4-a427-0343ed9ae0b0" /></a>
+
+
 ### Kiemelt projektek
 
 **Modiscan** - Weboldal változásfigyelő (CLI)\
