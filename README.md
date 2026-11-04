@@ -33,7 +33,7 @@ JavaScript • TypeScript • Python • C#
 
 ### Eredmények
 
-**TOP 12** 𛰈 [Junior Skills](https://worldskillshungary.hu/juniorskills/juniorskills-2024/webfejleszto)
+**TOP 12** 𛰈 [Skills Junior 2024](https://worldskillshungary.hu/juniorskills/juniorskills-2024/webfejleszto)
 
 **TOP 3** 𛰈 [PenDroid](https://pendroid.uni-pannon.hu/verseny/a-versenyrol)
 
