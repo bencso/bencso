@@ -11,8 +11,8 @@ JavaScript • TypeScript • Python • C#
 
 ### Kiemelt projektek
 
-**Modiscan** - Weboldal változásfigyelő (CLI)\
-[HAMAROSAN](https://github.com/bencso)
+**Modiscan** - Weboldal változásfigyelő (CLI - )\
+[HAMAROSAN - BEFAGYASZTVA 2027 Q1-IG](https://github.com/bencso)
 
 **WizPX** - Fotós workflow eszköz\
 [Link](https://github.com/bencso/WizPX)
