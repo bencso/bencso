@@ -23,6 +23,12 @@ JavaScript • TypeScript • Python • C#
 **New Factory** - Logikai építős mobiljáték\
 [Link](https://github.com/bencso/newfactory)
 
+
+### Fun projektek
+
+**Streamer Chat overlay - Streamer.bot websockethez**
+[Link](https://github.com/bencso/streamerbot-chat-overlays)
+
 ---
 
 ### Eredmények
