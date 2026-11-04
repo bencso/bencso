@@ -26,7 +26,7 @@ JavaScript • TypeScript • Python • C#
 
 ### Fun projektek
 
-**Streamer Chat overlay - Streamer.bot websockethez**
+**Streamer Chat overlay** - Streamer.bot websockethez\
 [Link](https://github.com/bencso/streamerbot-chat-overlays)
 
 ---
