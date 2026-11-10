@@ -25,6 +25,8 @@ JavaScript • TypeScript • Python • C#
 
 
 ### Fun projektek
+**Kick Emote Spam Remover** - Emote spammelést eltüntető böngésző bővítmény\
+[Link](https://github.com/bencso/kick-emote-spam-remover)
 
 **Streamer Chat overlay** - Streamer.bot websockethez\
 [Link](https://github.com/bencso/streamerbot-chat-overlays)
