@@ -24,7 +24,7 @@ JavaScript • TypeScript • Python • C#
 
 
 ### Fun projektek
-**Kick Spam Remover** - Emote és XD spammelést eltüntető böngésző bővítmény\
+**Kick Spam Collapser** - Emote és XD spammelést eltüntető böngésző bővítmény\
 [Link](https://github.com/bencso/kick-spam-collapser)
 
 **Streamer Chat overlay** - Streamer.bot websockethez\
