@@ -12,7 +12,6 @@ JavaScript • TypeScript • Python • C#
 ### Kiemelt projektek
 
 **Modiscan** - Weboldal változásfigyelő (CLI - )\
-[HAMAROSAN - BEFAGYASZTVA 2027 Q1-IG](https://github.com/bencso)
 
 **WizPX** - Fotós workflow eszköz\
 [Link](https://github.com/bencso/WizPX)
@@ -25,8 +24,8 @@ JavaScript • TypeScript • Python • C#
 
 
 ### Fun projektek
-**Kick Emote Spam Remover** - Emote spammelést eltüntető böngésző bővítmény\
-[Link](https://github.com/bencso/kick-emote-spam-remover)
+**Kick Spam Remover** - Emote és XD spammelést eltüntető böngésző bővítmény\
+[Link](https://github.com/bencso/kick-spam-collapser)
 
 **Streamer Chat overlay** - Streamer.bot websockethez\
 [Link](https://github.com/bencso/streamerbot-chat-overlays)
